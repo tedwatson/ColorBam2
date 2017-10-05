@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b60502fc869494904bbba845d2aa7f07
+timeCreated: 1506787982
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - greyMaterial: {fileID: 2100000, guid: cbba4728f81da7e4298876b189ade4d3, type: 2}
+  - target: {instanceID: 0}
+  - countText: {instanceID: 0}
+  - soundSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
